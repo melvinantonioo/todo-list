@@ -1,0 +1,25 @@
+{
+  "todo": [
+    {
+      "isFinished": false,
+      "activity": "Makan",
+      "id": "1"
+    },
+    {
+      "isFinished": true,
+      "activity": "Tidur",
+      "id": "2"
+    },
+    {
+      "isFinished": true,
+      "activity": "Coding",
+      "id": "3"
+    },
+    {
+      "isFinished": false,
+      "id": "d1ad",
+      "activity": "programming"
+    }
+  ],
+  "users": []
+}
